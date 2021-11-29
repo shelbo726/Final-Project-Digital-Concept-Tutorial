@@ -5,5 +5,7 @@
 <p> The binary numeral system is used to store and express data in computers. All data is stored on the computer as a 0 or 1. Therefore it is inportant to be able to convert differnet number systems into binary. </p>
 <h2><strong>Target Audience:</strong></h2>
 <p>The target audience of this tutorial is networkers because of calculations concerning subnetting and programmers since binary is the base numeral system of computers.</p>
-## Links to my markdown pages 
-- [Link to Binary Number System]https://github.com/shelbo726/Final-Project-Digital-Concept-Tutorial/blob/main/BinaryNumbers.md)
+<h1>Link to markdown pages:</h1>
+ <ul>
+  <li>[Link to Binary Number System Info](https://github.com/shelbo726/Final-Project-Digital-Concept-Tutorial/blob/main/BinaryNumbers.md)</li>
+ </ul>
