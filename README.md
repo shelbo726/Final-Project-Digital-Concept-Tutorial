@@ -8,4 +8,5 @@
 <h1>Link to markdown pages:</h1>
  <ul>
   <li>[Link to Binary Number System Info](https://github.com/shelbo726/Final-Project-Digital-Concept-Tutorial/blob/main/BinaryNumbers.md)</li>
+  <li>[Link to Decinal to Binary Conversion Info](  https://github.com/shelbo726/Final-Project-Digital-Concept-Tutorial/blob/main/Decimal%20to%20Binary.md)</li>
  </ul>
