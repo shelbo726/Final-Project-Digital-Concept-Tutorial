@@ -9,6 +9,5 @@
  <ul>
   <li>[Link to Binary Number System Info](https://github.com/shelbo726/Final-Project-Digital-Concept-Tutorial/blob/main/BinaryNumbers.md)</li>
   <li>[Link to Decinal to Binary Conversion Info](  https://github.com/shelbo726/Final-Project-Digital-Concept-Tutorial/blob/main/Decimal%20to%20Binary.md)</li>
- </ul>
-  <li>[Link to Decinal to Binary Conversion Info](  https://github.com/shelbo726/Final-Project-Digital-Concept-Tutorial/blob/main/Hex%20to%20Decimal.md)</li>
+  <li>[Link to Hex to Binary Conversion Info](  https://github.com/shelbo726/Final-Project-Digital-Concept-Tutorial/blob/main/Hex%20to%20Decimal.md)</li>
  </ul>
