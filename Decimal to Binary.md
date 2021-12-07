@@ -1,4 +1,4 @@
-<h1>Binary To Decimal Conversion</h1>
+<h1>Decimal to Binary Conversion</h1>
 <p> The decimal number system is a base 10 system, unlike binary numbers which is base 2. To convert a decimal number into binary it is quite simply done using division. Since a binary number is a base 2 we can divide the decimal number from 2 and the remainder will be a 0 or 1. We can divide the number until the decimal number becomes 0 and take note of each remainder. We then take the remainders and put them in reverse order. Below I have attachted two links one for an example of manual conversion and also a decimal to binary calculator.</p> 
 <h2> Links: </h2> 
  <ul>
